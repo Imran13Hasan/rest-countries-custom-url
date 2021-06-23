@@ -1,0 +1,8 @@
+.card-container {
+    margin-top: 50px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: space-evenly;
+}
